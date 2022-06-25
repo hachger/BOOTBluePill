@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>ArrowDown16x16.png</file>
+        <file>LogoUNERMecatronicaWM.png</file>
+    </qresource>
+</RCC>
